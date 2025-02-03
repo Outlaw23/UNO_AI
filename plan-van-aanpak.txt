@@ -1,0 +1,22 @@
+
+
+---onderdelen-heb-ik-nodig---
+kaarten
+spelers (bots)
+regels
+punten teling (bereiking)
+pestkaart acties
+ai volgorden
+start/einden/midden
+---onderdelen heb ik nodig---
+
+---verdeling-functions---
+kaarten generatoren
+regels/pestkaart acties
+ai volgorden
+start (spelers)
+game
+einden
+punten teling
+---verdeling-functions---
+

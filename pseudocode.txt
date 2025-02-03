@@ -1,0 +1,31 @@
+---pseudocode---
+-kaarten maken
+maakt de kaarten
+eerst normalen kaarten
+dan de pest kaarten
+-regels en acties van pestkaarten
+maak de regels: kleur op kleur/nummer op nummer/zwart mag altijd
+action pestkaarten: +2,+4/keer om/sla beurt over
+-ai volgorden
+maak de volgorden de de spelers (spelers zijn bots) aan houden
+Pestkaarten
+De hoogst mogelijke kaart
+De kaart van de kleur waar deze de meeste heeft
+-gameloop
+de gameloop begint
+vraagt aan de gebruik hoeveel spelers (bots)
+als de gebruiker een nummer in vult tussen 2 and 10 dan gaat door
+als de gebruiker niet dat doet gaat terug naar de game loop
+-maakt de speler en laat de spelers en kaart trekken
+de spelers worden gemaakt en door elk speler word een kaart getrokken (een pestkaart is 0)
+- de speler met de hoogst kaart mag beginnen
+de speler die de hoogst kaart heeft getrokken begint bijvoorbeeld 3 (er zijn 7 spelers) daarna gaat 4 etc
+(en als keer om hebt gaat het zo 3 en dan 2 tot weer een keer om dan gaat weer omhoog)
+-speler spelen uno tot een van de spelers geen kaart meer heeft
+de spelers speel het spel tot een speler geen kaarten meer heeft
+*er word tegelijk ook bij gehouden hoeveel er nog op de treks stapel liggen en of het nog geschut moet worden*
+-punt teling/winnaar
+de punt worden geteld
+en de word de winnaar gezegd
+-end
+---pseudocode---
